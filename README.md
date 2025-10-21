@@ -57,8 +57,7 @@ Azure App Service, Docker Containers, Continuous Integration/Deployment, Applica
 
 ## 📈 GitHub Stats  
 
-![Alyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alyan2717&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alyan2717&layout=compact&theme=tokyonight)
+![Alyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alyan2717&show_icons=true&theme=tokyonight)
 
 ---
 
