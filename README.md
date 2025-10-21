@@ -7,8 +7,7 @@
 ---
 
 ## 🧠 About Me  
-- 🌍 Based in **Berlin, Germany**  
-- 🎯 Currently pursuing a **Master’s in Computer Science** at GISMA University  
+- 🌍 Based in **Berlin, Germany**
 - 💼 2+ years of professional experience developing **enterprise HR, financial, and data integration systems**  
 - ⚙️ Skilled in designing **RESTful APIs**, **CI/CD pipelines**, and **microservices** architectures  
 - ☁️ Exploring **Azure Cloud**, **Docker**, and **scalable backend solutions**
