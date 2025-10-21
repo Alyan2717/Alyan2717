@@ -1,64 +1,73 @@
-# 👋 Hi, I'm Alyan Khan
+# 👋 Hi, I'm Alyan Khan  
 
 🎓 **Software Engineer | MSc Computer Science (Berlin, Germany)**  
-💻 Building scalable backend and full-stack applications with **.NET**, **Angular**, and **Node.js**  
-🚀 Passionate about system integration, REST APIs, and cloud technologies.
+💻 Building scalable backend and full-stack systems using **.NET**, **Angular**, **Django** and **Node.js**  
+☁️ Passionate about **system design**, **data integration**, and **cloud-native development**
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me  
 - 🌍 Based in **Berlin, Germany**  
-- 🎯 Currently pursuing **Master’s in Computer Science**  
-- 💼 2+ years of experience as a **Full Stack / Backend Developer** (.NET, Angular, Node.js)  
-- ⚙️ Skilled in **API design**, **CI/CD pipelines**, and **data integration via SFTP**  
-- ☁️ Interested in **Cloud Development (Azure/AWS)** and **microservices**  
-- 🗣️ Learning **German (B1)**  
+- 🎯 Currently pursuing a **Master’s in Computer Science** at GISMA University  
+- 💼 2+ years of professional experience developing **enterprise HR, financial, and data integration systems**  
+- ⚙️ Skilled in designing **RESTful APIs**, **CI/CD pipelines**, and **microservices** architectures  
+- ☁️ Exploring **Azure Cloud**, **Docker**, and **scalable backend solutions**
+  
+---
+
+## 🧰 Skills & Technologies  
+
+**Languages & Frameworks**  
+C#, Java, JavaScript, TypeScript, Python, ASP.NET Core, Angular, Spring Boot, Django, Flask, FastAPI  
+
+**Architecture & Design**  
+OOP, SOLID Principles, Clean Architecture, Repository Pattern, Dependency Injection, Microservices, REST API Design  
+
+**Databases**  
+SQL Server, MySQL, PostgreSQL, MongoDB, NoSQL, Entity Framework, LINQ  
+
+**Authentication & Security**  
+JWT, Role-Based Authorization, HTTPS, Data Encryption, Secure API Communication  
+
+**Integrations & Messaging**  
+RESTful APIs, SFTP, Webhooks, Windows Services, SMTP/Nodemailer, Event-Driven Architecture  
+
+**Tools & DevOps**  
+Git, GitHub Actions, Azure DevOps, Docker, Postman, JIRA, Visual Studio, VS Code, IntelliJ IDEA, PyCharm, IIS/IIS Express, CI/CD Pipelines  
+
+**Cloud & Deployment**  
+Azure App Service, Docker Containers, Continuous Integration/Deployment, Application Monitoring  
 
 ---
 
-## 💡 Featured Projects
+## 🧩 Professional Experience  
 
-### 🧩 [HRMS Integration System](https://github.com/Alyan2717/HRMS-Integration)
-A .NET-based system to synchronize HR and financial data between multiple services using SFTP and REST APIs.  
-**Tech:** .NET 6, SQL Server, Angular, Node.js, SFTP, CI/CD  
-⭐ Handles 10K+ daily records with secure transfer & validation.
+### 👨‍💻 **Associate Software Engineer – Decibel HRMS** (Jan 2024 – Jan 2025, Karachi, PK)  
+- Designed an Employee Bonus & Increment Management module in .NET and SQL Server — reduced approval time by 40%  
+- Delivered HRMS workflow improvements increasing efficiency by 25% and reducing manual work by 40%  
+- Led 3 developers to build SFTP/Webhook integrations achieving 99% data reliability  
+- Collaborated cross-functionally to drive 15% increase in platform adoption across departments  
 
----
-
-### 📊 [School Management System](https://github.com/Alyan2717/School-Management-System)
-Full-stack app built with Node.js, Express, MongoDB, and Angular to manage student records, attendance, and notifications.  
-**Tech:** Node.js, Express, MongoDB, Angular, Handlebars, JWT  
-🔐 Includes authentication, email service, and admin dashboard.
-
----
-
-### 🧠 [Employee Data Sync Service](https://github.com/Alyan2717/EmployeeDataSync)
-Windows service to automate data exchange between HRMS and third-party APIs.  
-**Tech:** .NET Core, REST API, Windows Services, SFTP  
+### 💻 **Junior Software Engineer – KALSOFT** (Apr 2023 – Dec 2023, Karachi, PK)  
+- Built a full-stack real estate platform using .NET Core Web API and Angular for the Canadian market  
+- Improved data query efficiency by 30% via optimized MongoDB schema design  
+- Automated CI/CD pipelines with Azure DevOps, cutting release time by 40%
 
 ---
 
-## 🧰 Tech Stack
+## 📈 GitHub Stats  
 
-**Languages:** C#, TypeScript, JavaScript, SQL, Python  
-**Frameworks:** .NET 6/7, ASP.NET Core, Angular, Node.js, Express  
-**Database:** SQL Server, MongoDB  
-**Tools:** Git, Docker, Azure DevOps, Visual Studio, Postman  
-**Cloud:** Azure (App Service, Blob Storage)
+![Alyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alyan2717&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alyan2717&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Contact
+## 📫 Contact  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/alyankhan2717)
-- 📧 Email: [alyan.khan@example.com](mailto:alyan.khan@example.com)
-- 🌐 [Portfolio Website](https://alyankhan.dev) *(optional, add later)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/alyan-khan-58b296194/)  
+- 📧 [alyan.khan27167@gmail.com](mailto:alyan.khan27167@gmail.com)    
+- 📍 Berlin, Germany  
 
 ---
 
-⭐ *Let’s connect — I’m always open to collaborations, backend projects, or learning opportunities!*
-
-![GitHub followers](https://img.shields.io/github/followers/Alyan2717?label=Follow&style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=Alyan2717&color=blue)
-
-![Alyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alyan2717&show_icons=true&theme=tokyonight)
+⭐ *Let’s connect — I’m open to collaborations, backend projects, and opportunities in Berlin or across Europe!*  
