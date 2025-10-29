@@ -68,4 +68,4 @@ Azure App Service, Docker Containers, Continuous Integration/Deployment, Applica
 
 ---
 
-⭐ *Let’s connect — I’m open to collaborations, backend projects, and opportunities in Berlin or across Europe!*  
+⭐ *Let’s connect — I’m open to collaborations, backend projects, and opportunities*  
