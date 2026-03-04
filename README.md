@@ -17,7 +17,7 @@
 ## 🧰 Skills & Technologies  
 
 **Languages & Frameworks**  
-C#, Java, JavaScript, TypeScript, Python, ASP.NET Core, Angular, Spring Boot, Django, Flask, FastAPI  
+C#, Java, JavaScript, TypeScript, Python, ASP.NET Core, Node.js, Angular, Spring Boot, Django, Flask, FastAPI  
 
 **Architecture & Design**  
 OOP, SOLID Principles, Clean Architecture, Repository Pattern, Dependency Injection, Microservices, REST API Design  
