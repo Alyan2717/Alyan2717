@@ -1,71 +1,73 @@
-# 👋 Hi, I'm Alyan Khan  
+# 👋 Hi, I'm Alyan Khan
 
-🎓 **Software Engineer | MSc Computer Science (Berlin, Germany)**  
-💻 Building scalable backend and full-stack systems using **.NET**, **Angular**, **Django** and **Node.js**  
-☁️ Passionate about **system design**, **data integration**, and **cloud-native development**
+### Backend Engineer | C# / .NET 8 · Python (FastAPI) · Java (Spring Boot)
+
+> 📍 **Based in Berlin, Germany**  
+> 🇪🇺 **Full German Work Authorization (EU Blue Card Eligible) — No Visa Sponsorship Required**
 
 ---
 
-## 🧠 About Me  
-- 🌍 Based in **Berlin, Germany**
-- 💼 2+ years of professional experience developing **enterprise HR, financial, and data integration systems**  
-- ⚙️ Skilled in designing **RESTful APIs**, **CI/CD pipelines**, and **microservices** architectures  
-- ☁️ Exploring **Azure Cloud**, **Docker**, and **scalable backend solutions**
-  
+## 🚀 About Me  
+- 🎓 **Education:** M.Eng. in Computer Science from GISMA University of Applied Sciences, Berlin  
+- 💼 **Experience:** 2 years of production experience building scalable backend microservices, RESTful APIs, and distributed systems  
+- ⚡ **Core Impact:** Reduced API latency by 30%, accelerated workflow execution by 40%, and sustained 99% uptime across production integrations  
+- ⚙️ **Focus:** System Design, Clean Architecture, Database Performance Optimization, and Cloud-Native Containerization  
+
 ---
 
-## 🧰 Skills & Technologies  
+## 🧰 Tech Stack
 
 **Languages & Frameworks**  
-C#, Java, JavaScript, TypeScript, Python, ASP.NET Core, Node.js, Angular, Spring Boot, Django, Flask, FastAPI  
+`C#` `.NET 8` `ASP.NET Core` `Python (FastAPI)` `Java (Spring Boot)` `TypeScript` `Angular`
 
 **Architecture & Design**  
-OOP, SOLID Principles, Clean Architecture, Repository Pattern, Dependency Injection, Microservices, REST API Design  
+`Microservices` `RESTful APIs` `Clean Architecture` `SOLID Principles` `Distributed Systems` `Asynchronous Messaging`
 
-**Databases**  
-SQL Server, MySQL, PostgreSQL, MongoDB, NoSQL, Entity Framework, LINQ  
+**Databases & ORM**  
+`Microsoft SQL Server` `PostgreSQL` `MongoDB` `MySQL` `Entity Framework Core` `Query Optimization`
 
-**Authentication & Security**  
-JWT, Role-Based Authorization, HTTPS, Data Encryption, Secure API Communication  
-
-**Integrations & Messaging**  
-RESTful APIs, SFTP, Webhooks, Windows Services, SMTP/Nodemailer, Event-Driven Architecture  
-
-**Tools & DevOps**  
-Git, GitHub Actions, Azure DevOps, Docker, Postman, JIRA, Visual Studio, VS Code, IntelliJ IDEA, PyCharm, IIS/IIS Express, CI/CD Pipelines  
-
-**Cloud & Deployment**  
-Azure App Service, Docker Containers, Continuous Integration/Deployment, Application Monitoring  
+**DevOps, Cloud & Tools**  
+`Docker` `Azure DevOps` `AWS` `Git` `CI/CD Pipelines` `Postman` `Unit Testing`
 
 ---
 
-## 🧩 Professional Experience  
+## 🌟 Featured Project
 
-### 👨‍💻 **Associate Software Engineer – Decibel HRMS** (Jan 2024 – Jan 2025, Karachi, PK)  
-- Designed an Employee Bonus & Increment Management module in .NET and SQL Server — reduced approval time by 40%  
-- Delivered HRMS workflow improvements increasing efficiency by 25% and reducing manual work by 40%  
-- Led 3 developers to build SFTP/Webhook integrations achieving 99% data reliability  
-- Collaborated cross-functionally to drive 15% increase in platform adoption across departments  
-
-### 💻 **Junior Software Engineer – KALSOFT** (Apr 2023 – Dec 2023, Karachi, PK)  
-- Built a full-stack real estate platform using .NET Core Web API and Angular for the Canadian market  
-- Improved data query efficiency by 30% via optimized MongoDB schema design  
-- Automated CI/CD pipelines with Azure DevOps, cutting release time by 40%
+### 🛠️ [ITCDI - Distributed Data Integration Platform](https://github.com/Alyan2717/itcdi-complete)
+*Master of Engineering Thesis Project*  
+- Developed a containerized C# / .NET 8 and Python FastAPI integration orchestrator communicating over HTTP across Docker containers.
+- Implemented automated data transformation, conflict resolution, and data provenance tracking across distributed endpoints.
+- Evaluated across 7 benchmark experiments against 5 baseline architectures.
 
 ---
 
-## 📈 GitHub Stats  
+## 💼 Work Experience Highlights
 
-![Alyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alyan2717&show_icons=true&theme=tokyonight)
+### 👨‍💻 **Software Engineer** | Decibel HRMS *(Jan 2024 – Jan 2025)*
+- Designed and deployed backend microservices and RESTful APIs in C# and .NET Core serving 2,000+ active users.
+- Engineered automated approval workflows, cutting manual processing time by 40% and audit turnarounds from days to hours.
+- Sustained 99% uptime with zero data loss across third-party integrations using idempotency controls and retry logic.
+
+### 💻 **Junior Software Engineer** | KALSOFT *(Apr 2023 – Dec 2023)*
+- Built modular backend services in ASP.NET Core and MongoDB structured around Clean Architecture patterns.
+- Reduced API response times by 30% on high-throughput endpoints (10,000+ daily requests) by optimizing query plans and aggregation pipelines.
+- Managed continuous integration and release pipelines in Azure DevOps across 8 production launches.
 
 ---
 
-## 📫 Contact  
+## 📊 GitHub Stats
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/alyan-khan-58b296194/)  
-- 📧 [alyan.khan27167@gmail.com](mailto:alyan.khan27167@gmail.com)    
-- 📍 Berlin, Germany  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alyan2717&show_icons=true&theme=tokyonight&hide_border=true" alt="Alyan's GitHub Stats" />
+</p>
 
 ---
 
-⭐ *Let’s connect — I’m open to collaborations, backend projects, and opportunities*  
+## 📫 Connect With Me
+
+- 💼 **LinkedIn:** [linkedin.com/in/alyankhan-58b296194](https://www.linkedin.com/in/alyan-khan-58b296194/)
+- 📧 **Email:** [alyan.khan27167@gmail.com](mailto:alyan.khan27167@gmail.com)
+- 📍 **Location:** Berlin, Germany
+
+---
+⭐ *Open to Backend Engineering and Distributed Systems opportunities across Europe.*
