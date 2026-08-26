@@ -44,14 +44,15 @@
 ## 💼 Work Experience Highlights
 
 ### 👨‍💻 **Software Engineer** | Decibel HRMS *(Jan 2024 – Jan 2025)*
-- Designed and deployed backend microservices and RESTful APIs in C# and .NET Core serving 2,000+ active users.
-- Engineered automated approval workflows, cutting manual processing time by 40% and audit turnarounds from days to hours.
-- Sustained 99% uptime with zero data loss across third-party integrations using idempotency controls and retry logic.
+- API & Service Development: Designed, developed, and deployed scalable backend services, RESTful APIs, and microservices supporting 2,000+ active users. 
+- Workflow Automation: Designed and implemented automated business workflows and approval processes, reducing manual execution time by 40% and improving audit turnaround from days to hours. 
+- System Reliability & Integration: Built reliable integrations with third-party systems using fault tolerance, retry mechanisms, idempotency, error handling, and automated reconciliation, achieving 99% uptime with zero data loss. 
+- Production Operations & Troubleshooting: Monitored, diagnosed, and resolved production incidents using logging and monitoring tools, improving post-release stability, system reliability, and operational performance.
 
 ### 💻 **Junior Software Engineer** | KALSOFT *(Apr 2023 – Dec 2023)*
-- Built modular backend services in ASP.NET Core and MongoDB structured around Clean Architecture patterns.
-- Reduced API response times by 30% on high-throughput endpoints (10,000+ daily requests) by optimizing query plans and aggregation pipelines.
-- Managed continuous integration and release pipelines in Azure DevOps across 8 production launches.
+- Clean Architecture & System Design: Designed and developed modular, scalable backend services using Clean Architecture principles, supporting role-based access control and maintainable application architecture.
+- Performance Optimization & Scalability: Improved API performance by 30% for high-throughput endpoints handling 10,000+ daily requests through database query optimization, indexing, and data aggregation improvements.
+- CI/CD & Deployment Automation: Managed source control, build, testing, and continuous delivery pipelines to streamline deployments, improve release reliability, and deliver production releases on schedule.
 
 ---
 
